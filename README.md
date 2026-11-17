@@ -60,3 +60,6 @@ V | F | V
 F | V | V
 F | F | F
 
+# Emojis
+
+:+1: :camel: :metal: :grin: :poop:
