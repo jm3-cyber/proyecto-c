@@ -29,3 +29,13 @@ Esta es una lista numerada:
 3. Renault
 4. Mazda
 
+Una lista con varios niveles de sangrado: Las lunas de los planetas
+* Tierra
+  * Luna
+* Júpiter
+  * Calisto
+  * Ganimedes
+  * Europa
+  * Io
+* Saturno
+  * Titán
