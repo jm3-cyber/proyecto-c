@@ -51,3 +51,12 @@ ObiWan Kenobi dijo:
 > La fuerza estará contigo...
 > Siempre
 
+# Crear una tabla
+
+A | B | A XOR B
+--|---|---------
+V | V | F
+V | F | V
+F | V | V
+F | F | F
+
