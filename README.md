@@ -63,3 +63,16 @@ F | F | F
 # Emojis
 
 :+1: :camel: :metal: :grin: :poop:
+
+# Un pedacito de código en Python
+```python
+print("Este es un ejemplo de código en Python")
+a = 5
+b = 3
+c = a+b
+print(c)
+```
+
+```powershell
+Remove-Item -recurse copia
+```
