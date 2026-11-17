@@ -45,3 +45,9 @@ Una lista con varios niveles de sangrado: Las lunas de los planetas
 - [X] Pagar los derechos
 - [X] Ir a la oficina a la cita
 - [ ] Esperar a que expidan el pasaporte
+
+# Creación de una cita
+ObiWan Kenobi dijo:
+> La fuerza estará contigo...
+> Siempre
+
